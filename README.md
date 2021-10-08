@@ -10,4 +10,6 @@ Control can be very generally described as "the process of influencing the behav
 
 # Course description:
 
+Feedback control with applications. System theory in both time and frequency domain, state-space computations, stability, system uncertainty, loopshaping, linear quadratic regulators, and estimation. 
+
 The basic ideas of control are described. Concepts are illustrated with examples. While students are expected to understand the theory, emphasis is placed on application of the ideas. The software program MATLAB is introduced and used throughout the course.
